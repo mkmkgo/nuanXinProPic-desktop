@@ -1,0 +1,28 @@
+{
+  "lastUpdated": "2026-10-22 17:24:07",
+  "cdnTag": "v2.0.0",
+  "series": {
+    "desktop": {
+      "count": 669,
+      "categories": [
+        "动漫",
+        "插画",
+        "人像",
+        "风景",
+        "IP形象",
+        "通用",
+        "萌宠",
+        "政治",
+        "游戏",
+        "影视"
+      ]
+    }
+  },
+  "total": {
+    "desktop": 669,
+    "mobile": 0,
+    "avatar": 0,
+    "bing": 0
+  },
+  "releases": []
+}
